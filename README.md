@@ -26,7 +26,6 @@ After carefully addressing each quality issue, I confirmed that the data was now
 **Answer Data Questions**
 The aim was to answer the questions below
 - Find the total Revenue generated:
-
 The **“SUM”** function was used to generate results **_=SUM(W2:W9801)_** for  which **_$2,261,536.78_** was gotten.
 
 - Find the highest Revenue generated:
